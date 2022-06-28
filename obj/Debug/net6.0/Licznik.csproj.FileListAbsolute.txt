@@ -1,0 +1,15 @@
+C:\Users\48516\source\repos\Licznik\bin\Debug\net6.0\Licznik.exe
+C:\Users\48516\source\repos\Licznik\bin\Debug\net6.0\Licznik.deps.json
+C:\Users\48516\source\repos\Licznik\bin\Debug\net6.0\Licznik.runtimeconfig.json
+C:\Users\48516\source\repos\Licznik\bin\Debug\net6.0\Licznik.dll
+C:\Users\48516\source\repos\Licznik\bin\Debug\net6.0\Licznik.pdb
+C:\Users\48516\source\repos\Licznik\obj\Debug\net6.0\Licznik.csproj.AssemblyReference.cache
+C:\Users\48516\source\repos\Licznik\obj\Debug\net6.0\Licznik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48516\source\repos\Licznik\obj\Debug\net6.0\Licznik.AssemblyInfoInputs.cache
+C:\Users\48516\source\repos\Licznik\obj\Debug\net6.0\Licznik.AssemblyInfo.cs
+C:\Users\48516\source\repos\Licznik\obj\Debug\net6.0\Licznik.csproj.CoreCompileInputs.cache
+C:\Users\48516\source\repos\Licznik\obj\Debug\net6.0\Licznik.dll
+C:\Users\48516\source\repos\Licznik\obj\Debug\net6.0\ref\Licznik.dll
+C:\Users\48516\source\repos\Licznik\obj\Debug\net6.0\Licznik.pdb
+C:\Users\48516\source\repos\Licznik\obj\Debug\net6.0\Licznik.genruntimeconfig.cache
+C:\Users\48516\source\repos\Licznik\obj\Debug\net6.0\refint\Licznik.dll
